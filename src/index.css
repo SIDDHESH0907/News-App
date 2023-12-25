@@ -13,8 +13,9 @@ code {
 } */
 
 :root {
-  --d-color: #000000;
-  --l-color: #ffffff;
-  --h-color: #ff4500;
+  --white: #f6f2f4;
+  --black: #172330;
+  --orange: #ff4500;
+  --grey: rgb(116, 115, 115);
 }
 
